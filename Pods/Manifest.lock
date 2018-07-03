@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Alamofire-Gloss (3.0.1):
+    - Alamofire-Gloss/Core (= 3.0.1)
+  - Alamofire-Gloss/Core (3.0.1):
+    - Alamofire (~> 4.6.0)
+    - Gloss (~> 2.0.0-beta.2)
+  - Gloss (2.0.1)
+  - Realm (3.7.4):
+    - Realm/Headers (= 3.7.4)
+  - Realm/Headers (3.7.4)
+  - RealmSwift (3.7.4):
+    - Realm (= 3.7.4)
+  - RPCircularProgress (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alamofire-Gloss
+  - Gloss
+  - RealmSwift
+  - RPCircularProgress
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Alamofire-Gloss
+    - Gloss
+    - Realm
+    - RealmSwift
+    - RPCircularProgress
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Alamofire-Gloss: d7f3e9c254dad95281787244cefb17c91e25881b
+  Gloss: 1e8743f8de1fbe14a97f220ff901cba91ae5f8f8
+  Realm: a469bb59e33f9926102ccaea4349822c53b9117e
+  RealmSwift: a45861b21c180f5cf0f122144b9759fa8dde3e9e
+  RPCircularProgress: fdbf7c5b54156980cdd35c6cc8a87d6468c6c829
+
+PODFILE CHECKSUM: a68db996a358f9f8f6f2b118ce4fa04c1fa20075
+
+COCOAPODS: 1.5.3
